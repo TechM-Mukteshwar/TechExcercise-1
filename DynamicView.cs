@@ -9,7 +9,7 @@ namespace TouchWalkthrough
 {
     public class DynamicView : LinearLayout
     {
-        private List<View> layouts;
+        private List<View> layouts;mmm
 
         public DynamicView(Context context, int count) :
             base(context)
